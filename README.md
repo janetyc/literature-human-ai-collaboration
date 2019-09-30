@@ -40,3 +40,8 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 ## Human-AI Team
 - Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff (AAAI2019)
 - Beyond Accuracy: The Role of Mental Models in Human-AI Team Performance (HCOMP 2019)
+
+
+------
+Other Awesome HAI list
+- https://github.com/bwang514/awesome-HAI/blob/master/README.md
