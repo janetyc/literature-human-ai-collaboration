@@ -5,6 +5,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - Power to the People: The Role of Humans in Interactive Machine Learning (AI Magine 2014)
 
 ## Hybrid Intelligence
+- [Directions in Hybrid Intelligence: Complementing AI Systems with Human Intelligence (Karmar, IJCAI 2016)](https://www.ijcai.org/Proceedings/16/Papers/603.pdf)
 - [Hybrid Intelligence (Dominik et al., 2019)](https://link.springer.com/article/10.1007/s12599-019-00595-2)
 - [The Future of Human-AI Collaboration: A Taxonomy of Design Knowledge for Hybrid Intelligence Systems (Dominik et al., 2019)](https://www.alexandria.unisg.ch/254994/)
 - [On Facilitating Human-Computer Interaction via Hybrid Intelligence Systems (Lasecki, 2019)](https://pdfs.semanticscholar.org/af1f/3e78f052e0f50840b284c94ff5ae2c3a1c8f.pdf)
