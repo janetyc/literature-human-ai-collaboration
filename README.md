@@ -21,19 +21,21 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - Direct Manipulation vs. Interface Agents (1997)
 - Principles of mixed-initiative user interfaces (Horvitz, 1999)
 
-## AI/ML as Design Material
-- [Guidelines for Human-AI Interaction (Amershi et al., 2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf)
+## AI/ML as UX
 - UX Design Innovation: Challenges for Working with Machine Learning as a Design Material (CHI 2017)
 - Reimagining the Goals and Methods of UX for ML/AI
-- The Role of Design in Creating Machine-Learning-Enhanced User Experience ()
+- The Role of Design in Creating Machine-Learning-Enhanced User Experience
 - Investigating How Experienced UX Designers Effectively Work with Machine Learning (DIS 2018)
+- Mapping Machine Learning Advances from HCI Research to Reveal Starting Places for Design Research (CHI 2018)
+- [Guidelines for Human-AI Interaction (Amershi et al., CHI2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf)
 
-## Intelligibility, Explainability
+## Intelligibility, Explainability, Explainable AI
 - "Why Should I Trust You?": Explaining the Predictions of Any Classifier (KDD 2016)
 - Towards A Rigorous Science of Interpretable Machine Learning (2017)
 - Trends and Trajectories for Explainable, Accountable and Intelligible Systems: An HCI Research Agenda (CHI 2018)
 - Designing Theory-Driven User-Centric Explainable AI (CHI 2019)
-- [The Challenge of Crafting Intelligible Intelligence (Weld and Bansal, 2019)](https://cacm.acm.org/magazines/2019/6/237004-the-challenge-of-crafting-intelligible-intelligence/fulltext#R13)
+- Explaining Decision-Making Algorithms through UI (CHI 2019)
+- [The Challenge of Crafting Intelligible Intelligence (Weld and Bansal, CACM2019)](https://cacm.acm.org/magazines/2019/6/237004-the-challenge-of-crafting-intelligible-intelligence/fulltext#R13)
 
 ## Human-AI Team
 - Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff (AAAI2019)
