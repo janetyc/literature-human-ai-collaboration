@@ -42,6 +42,9 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff (AAAI2019)
 - Beyond Accuracy: The Role of Mental Models in Human-AI Team Performance (HCOMP 2019)
 
+## Human-in-the-loop ML
+- https://livebook.manning.com/book/human-in-the-loop-machine-learning/ (in-progress book, [Robert Munro](http://www.robertmunro.com))
+
 
 ------
 Other Awesome HAI list
