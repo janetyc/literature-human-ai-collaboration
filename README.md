@@ -52,5 +52,4 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [CS 294: Fairness in Machine Learning by ,UC Bekeley](https://fairmlclass.github.io)
 
 ## Other Awesome HAI list
-## Other Awesome HAI list
 - https://github.com/bwang514/awesome-HAI/blob/master/README.md
