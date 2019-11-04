@@ -50,6 +50,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [Human-AI Interaction, by Chinmay Kulkarni an Mary Beth Kery, CMU (formo class by Jeff Bigham and Joseph Seering, Fall 2018)](http://www.humanaiclass.org)
 - [CS 889: Human-AI Interaction by Edith Law, U.Waterloo](http://edithlaw.ca/teaching/cs889/2018/index.html)
 - [CS 294: Fairness in Machine Learning by ,UC Bekeley](https://fairmlclass.github.io)
+- [CS598RK: HCI for Machine Learning, by Ranjitha Kumar and Jinda Han,UIUC](https://courses.grainger.illinois.edu/cs598rk/fa2019/)
 
 ## Other Awesome HAI list
 - https://github.com/bwang514/awesome-HAI/blob/master/README.md
