@@ -62,7 +62,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 
 ### Conversational Agents
 - [What Makes a Good Conversation? Challenges in Designing Truly Conversational Agents (CHI 2019)](https://arxiv.org/pdf/1901.06525.pdf)
-- [Caring for Vincent: A Chatbot for Self-compassion](CHI 2019)(https://minha-lee.github.io/files/lee_vincent_chatbot_CHI2019.pdf)
+- [Caring for Vincent: A Chatbot for Self-compassion(CHI 2019)](https://minha-lee.github.io/files/lee_vincent_chatbot_CHI2019.pdf)
 
 ### Others
 - [Calendar.help: Designing a workflow-based scheduling agent with humans in the loop](https://arxiv.org/pdf/1703.08428)
