@@ -69,19 +69,23 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 
 ------
 
-## Related Courses
+## Courses
 - [Human-AI Interaction, by Chinmay Kulkarni an Mary Beth Kery, CMU (formo class by Jeff Bigham and Joseph Seering, Fall 2018)](http://www.humanaiclass.org)
 - [CS 889: Human-AI Interaction by Edith Law, U.Waterloo](http://edithlaw.ca/teaching/cs889/2018/index.html)
 - [CS 294: Fairness in Machine Learning by ,UC Bekeley](https://fairmlclass.github.io)
 - [CS598RK: HCI for Machine Learning, by Ranjitha Kumar and Jinda Han,UIUC](https://courses.grainger.illinois.edu/cs598rk/fa2019/)
+- [Human-centered Machine Learning (2018 Spring), by Chenhao Tan, University of Colorado Boulder](https://chenhaot.com/courses/hcml/home.html)
 
-## Related Workshops
+## Labs
+- [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io)
+
+## Workshops
 - [PAIR 2019 @Google](https://pair.withgoogle.com/events/symposium/)
 - [HAI 2019 @Stanford](https://hai.stanford.edu/events/2019-hai-symposium/overview)
 - [Machine Teaching Group @MSR](https://www.microsoft.com/en-us/research/group/machine-teaching-group/)
 
 ## Others Links
 - https://pair.withgoogle.com
-- 
+
 ## Other Awesome HAI list
 - https://github.com/bwang514/awesome-HAI/blob/master/README.md
