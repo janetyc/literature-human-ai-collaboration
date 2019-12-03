@@ -75,6 +75,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [CS 294: Fairness in Machine Learning by ,UC Bekeley](https://fairmlclass.github.io)
 - [CS598RK: HCI for Machine Learning, by Ranjitha Kumar and Jinda Han,UIUC](https://courses.grainger.illinois.edu/cs598rk/fa2019/)
 - [Human-centered Machine Learning (2018 Spring), by Chenhao Tan, University of Colorado Boulder](https://chenhaot.com/courses/hcml/home.html)
+- [Designing AI to Cultivate Human Well-Being, by Jennifer Aaker and Fei-Fei Li, Stanford](https://designing-ai.su.domains)
 
 ## Labs
 - [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io)
