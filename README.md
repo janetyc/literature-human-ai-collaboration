@@ -90,3 +90,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 
 ## Other Awesome HAI list
 - https://github.com/bwang514/awesome-HAI/blob/master/README.md
+
+-------
+For artist
+- https://ml4a.github.io/classes/itp-F18/
