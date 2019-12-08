@@ -84,6 +84,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [PAIR 2019 @Google](https://pair.withgoogle.com/events/symposium/)
 - [HAI 2019 @Stanford](https://hai.stanford.edu/events/2019-hai-symposium/overview)
 - [Machine Teaching Group @MSR](https://www.microsoft.com/en-us/research/group/machine-teaching-group/)
+- [HAI-GEN 2020 @ IUI 2020 Workshop on Human-AI Co-Creation with Generative Models](https://hai-gen2020.github.io)
 
 ## Others Links
 - https://pair.withgoogle.com
