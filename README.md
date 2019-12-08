@@ -60,14 +60,20 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [In a Silent Way: Communication Between AI and Improvising Musicians Beyond Sound (CHI 2019)](https://dl.acm.org/citation.cfm?id=3300268)
 - [I lead, you help but only with enough details: Understanding user experience of co-creation with artificial intelligence (CHI 2018)](https://dl.acm.org/citation.cfm?id=3174223)
 
+### Design
+- [VisiBlends: An Interactive Pipeline for Creating Visual Blends (CHI 2019)](https://www.cs.columbia.edu/~chilton/web/my_publications/VisiBlends_CHI2019.pdf)
+- [Human Errors in Interpreting Visual Metaphor (C&C 2019)](https://www.cs.columbia.edu/~chilton/web/my_publications/Human_Errors_in_Interpreting_Visual_Meaning.pdf)
+
 ### Conversational Agents
 - [What Makes a Good Conversation? Challenges in Designing Truly Conversational Agents (CHI 2019)](https://arxiv.org/pdf/1901.06525.pdf)
 - [Caring for Vincent: A Chatbot for Self-compassion(CHI 2019)](https://minha-lee.github.io/files/lee_vincent_chatbot_CHI2019.pdf)
 
 ### Others
 - [Calendar.help: Designing a workflow-based scheduling agent with humans in the loop](https://arxiv.org/pdf/1703.08428)
+- [AI-Mediated Communication: How the Perception that Profile Text was Written by AI Affects
+Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_camera_ready.pdf)
 
-------
+-------
 
 ## Courses
 - [Human-AI Interaction, by Chinmay Kulkarni an Mary Beth Kery, CMU (formo class by Jeff Bigham and Joseph Seering, Fall 2018)](http://www.humanaiclass.org)
