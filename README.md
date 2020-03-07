@@ -32,6 +32,8 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - Investigating How Experienced UX Designers Effectively Work with Machine Learning (DIS 2018)
 - Mapping Machine Learning Advances from HCI Research to Reveal Starting Places for Design Research (CHI 2018)
 - [Guidelines for Human-AI Interaction (Amershi et al., CHI2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf)
+- [Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design (Yang et al., CHI 2020)](https://www.researchgate.net/publication/338459008_Re-examining_Whether_Why_and_How_Human-AI_Interaction_Is_Uniquely_Difficult_to_Design)
+- 
 
 ## Intelligibility, Explainability, Explainable AI
 - How Good is 85%? A Survey Tool to Connect Classifier Evaluation to Acceptability of Accuracy (CHI 2015)
@@ -41,6 +43,11 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - Designing Theory-Driven User-Centric Explainable AI (CHI 2019)
 - Explaining Decision-Making Algorithms through UI (CHI 2019)
 - [The Challenge of Crafting Intelligible Intelligence (Weld and Bansal, CACM 2019)](https://cacm.acm.org/magazines/2019/6/237004-the-challenge-of-crafting-intelligible-intelligence/fulltext#R13)
+- [Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning (Kaur et al., CHI 2020)](http://www-personal.umich.edu/~harmank/Papers/CHI2020_Interpretability.pdf)
+- [Questioning the AI: Informing Design Practices for Explainable AI User Experiences (Liao et al., CHI 2020)](https://arxiv.org/abs/2001.02478)
+
+## FATE: Fairness, Accountability, Transparency, and Ethics in AI
+- [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI (Madaio et al., CHI 2020)](http://www.jennwv.com/papers/checklists.pdf)
 
 ## Human-AI Team
 - Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff (AAAI 2019)
@@ -81,6 +88,7 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 - [CS 294: Fairness in Machine Learning by ,UC Bekeley](https://fairmlclass.github.io)
 - [CS598RK: HCI for Machine Learning, by Ranjitha Kumar and Jinda Han,UIUC](https://courses.grainger.illinois.edu/cs598rk/fa2019/)
 - [Human-centered Machine Learning (2018 Spring), by Chenhao Tan, University of Colorado Boulder](https://chenhaot.com/courses/hcml/home.html)
+- [CS6724: Advanced Topics in Human-Computer Interaction: Human-AI Interaction, by Kurt Lurther, Virginia Tech](https://wordpress.cs.vt.edu/cs6724s20/)
 - [Designing AI to Cultivate Human Well-Being, by Jennifer Aaker and Fei-Fei Li, Stanford](https://designing-ai.su.domains)
 
 ## Labs
