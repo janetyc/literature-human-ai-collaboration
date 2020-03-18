@@ -94,12 +94,12 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 ## Labs
 - [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io)
 
-## Workshops
+## Workshops & Tutorials
 - [PAIR 2019 @Google](https://pair.withgoogle.com/events/symposium/)
 - [HAI 2019 @Stanford](https://hai.stanford.edu/events/2019-hai-symposium/overview)
 - [Machine Teaching Group @MSR](https://www.microsoft.com/en-us/research/group/machine-teaching-group/)
 - [HAI-GEN 2020 @ IUI 2020 Workshop on Human-AI Co-Creation with Generative Models](https://hai-gen2020.github.io)
-
+- [AAAI 2020 Tutorial – Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/project/guidelines-for-human-ai-interaction/articles/aaai-2020-tutorial-guidelines-for-human-ai-interaction/)
 ## Others Links
 - https://pair.withgoogle.com
 
