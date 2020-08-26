@@ -90,6 +90,7 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 - [Human-centered Machine Learning (2018 Spring), by Chenhao Tan, University of Colorado Boulder](https://chenhaot.com/courses/hcml/home.html)
 - [CS6724: Advanced Topics in Human-Computer Interaction: Human-AI Interaction, by Kurt Lurther, Virginia Tech](https://wordpress.cs.vt.edu/cs6724s20/)
 - [Designing AI to Cultivate Human Well-Being, by Jennifer Aaker and Fei-Fei Li, Stanford](https://designing-ai.su.domains)
+- [CS279R: Research Topics in HCI: Human-AI Interaction](https://docs.google.com/document/d/1tR7G1ghLYpcqFj3v_E3CEBTAINIJuMTOumR1CCfykoo/edit)
 
 ## Labs
 - [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io)
@@ -100,8 +101,11 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 - [Machine Teaching Group @MSR](https://www.microsoft.com/en-us/research/group/machine-teaching-group/)
 - [HAI-GEN 2020 @ IUI 2020 Workshop on Human-AI Co-Creation with Generative Models](https://hai-gen2020.github.io)
 - [AAAI 2020 Tutorial – Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/project/guidelines-for-human-ai-interaction/articles/aaai-2020-tutorial-guidelines-for-human-ai-interaction/)
+- [Participatory Approaches to Machine Learning, ICML 2020 Workshop (July 17, 2020)](https://participatoryml.github.io)
+
 ## Others Links
 - https://pair.withgoogle.com
+- [AI Guidelines in the Creative Process](https://medium.com/microsoft-design/ai-guidelines-in-the-creative-process-807b6d31cda2)
 
 ## Other Awesome HAI list
 - https://github.com/bwang514/awesome-HAI/blob/master/README.md
