@@ -25,13 +25,17 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - Principles of Mixed-Initiative User Interfaces (Horvitz, 1999)
 - Agency plus automation: Designing artificial intelligence into interactive systems (Heer, 2019)
 
+## Human-AI Interaction
+- [Guidelines for Human-AI Interaction (Amershi et al., CHI2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf)
+- [Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy (Shneiderman 2020)](https://www.tandfonline.com/doi/full/10.1080/10447318.2020.1741118)
+- [Ask not what AI can do, but what AI should do: Towards a framework of task delegability (Lubars an Tan, 2019)](https://arxiv.org/abs/1902.03245)
+
 ## AI/ML as UX
 - UX Design Innovation: Challenges for Working with Machine Learning as a Design Material (CHI 2017)
 - Reimagining the Goals and Methods of UX for ML/AI
 - The Role of Design in Creating Machine-Learning-Enhanced User Experience
 - Investigating How Experienced UX Designers Effectively Work with Machine Learning (DIS 2018)
 - Mapping Machine Learning Advances from HCI Research to Reveal Starting Places for Design Research (CHI 2018)
-- [Guidelines for Human-AI Interaction (Amershi et al., CHI2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf)
 - [Re-examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design (Yang et al., CHI 2020)](https://www.researchgate.net/publication/338459008_Re-examining_Whether_Why_and_How_Human-AI_Interaction_Is_Uniquely_Difficult_to_Design)
 - 
 
