@@ -1,6 +1,9 @@
 # Human-AI Collaboration
 Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 
+## Human-Centered Artificial Intelligence
+- [Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy (Shneiderman 2020)](https://www.tandfonline.com/doi/full/10.1080/10447318.2020.1741118)
+
 ## Interactive Machine Learning
 - Power to the People: The Role of Humans in Interactive Machine Learning (AI Magine 2014)
 
@@ -27,7 +30,6 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 
 ## Human-AI Interaction
 - [Guidelines for Human-AI Interaction (Amershi et al., CHI2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf)
-- [Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy (Shneiderman 2020)](https://www.tandfonline.com/doi/full/10.1080/10447318.2020.1741118)
 - [Ask not what AI can do, but what AI should do: Towards a framework of task delegability (Lubars an Tan, 2019)](https://arxiv.org/abs/1902.03245)
 
 ## AI/ML as UX
@@ -110,6 +112,8 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 ## Others Links
 - https://pair.withgoogle.com
 - [AI Guidelines in the Creative Process](https://medium.com/microsoft-design/ai-guidelines-in-the-creative-process-807b6d31cda2)
+- https://hcil.umd.edu/human-centered-ai-a-second-copernican-revolution/
+- https://hcil.umd.edu/human-centered-ai-trusted-reliable-safe/
 
 ## Other Awesome HAI list
 - https://github.com/bwang514/awesome-HAI/blob/master/README.md
