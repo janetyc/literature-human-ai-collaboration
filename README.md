@@ -97,6 +97,8 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 - [CS6724: Advanced Topics in Human-Computer Interaction: Human-AI Interaction, by Kurt Lurther, Virginia Tech](https://wordpress.cs.vt.edu/cs6724s20/)
 - [Designing AI to Cultivate Human Well-Being, by Jennifer Aaker and Fei-Fei Li, Stanford](https://designing-ai.su.domains)
 - [CS279R: Research Topics in HCI: Human-AI Interaction](https://docs.google.com/document/d/1tR7G1ghLYpcqFj3v_E3CEBTAINIJuMTOumR1CCfykoo/edit)
+- [CS492F: Human-AI Interaction, by Jean Young Song and Juho Kim, KAIST](https://www.kixlab.org/courses/cs492-fall-2020/index.html)
+- [CS279R Research Topics in HCI: Human-AI Interaction, by Elena L. Glassman, Harvard](https://docs.google.com/document/d/1tR7G1ghLYpcqFj3v_E3CEBTAINIJuMTOumR1CCfykoo/edit?usp=sharing)
 
 ## Labs
 - [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io)
