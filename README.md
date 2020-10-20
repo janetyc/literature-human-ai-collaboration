@@ -53,6 +53,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [The Challenge of Crafting Intelligible Intelligence (Weld and Bansal, CACM 2019)](https://cacm.acm.org/magazines/2019/6/237004-the-challenge-of-crafting-intelligible-intelligence/fulltext#R13)
 - [Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning (Kaur et al., CHI 2020)](http://www-personal.umich.edu/~harmank/Papers/CHI2020_Interpretability.pdf)
 - [Questioning the AI: Informing Design Practices for Explainable AI User Experiences (Liao et al., CHI 2020)](https://arxiv.org/abs/2001.02478)
+- [No Explainability without Accountability: An Empirical Study of Explanations and Feedback in Interactive ML (Smith-Renner et al., CHI 2020)](https://homes.cs.washington.edu/~weld/papers/smith-renner-chi20.pdf)
 
 ## FATE: Fairness, Accountability, Transparency, and Ethics in AI
 - [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI (Madaio et al., CHI 2020)](http://www.jennwv.com/papers/checklists.pdf)
