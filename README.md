@@ -5,6 +5,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy. (Shneiderman 2020)](https://www.tandfonline.com/doi/full/10.1080/10447318.2020.1741118)
 - [Human-Centered Artificial Intelligence: Three Fresh Ideas. (Shneiderman, 2020)](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1136&context=thci)
 - [Workshop: Human-Centered AI: Reliable, Safe & Trustworthy, University of Maryland, 2020.](https://hcil.umd.edu/human-centered-ai-trusted-reliable-safe/)
+- [- Bridging the Gap Between Ethics and Practice: Guidelines for Reliable, Safe, and Trustworthy Human-centered AI Systems](https://dl.acm.org/doi/10.1145/3419764)
 
 ## Interactive Machine Learning
 - Power to the People: The Role of Humans in Interactive Machine Learning (AI Magine 2014)
