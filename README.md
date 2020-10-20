@@ -56,6 +56,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 
 ## FATE: Fairness, Accountability, Transparency, and Ethics in AI
 - [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI (Madaio et al., CHI 2020)](http://www.jennwv.com/papers/checklists.pdf)
+- [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
 
 ## Human-AI Team
 - Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff (AAAI 2019)
