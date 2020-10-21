@@ -1,3 +1,6 @@
+Big theme: Human-AI Co-Learning (Huang et al., 2019) https://arxiv.org/abs/1910.12544
+
+----------------------------
 # Human-AI Collaboration
 Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 
