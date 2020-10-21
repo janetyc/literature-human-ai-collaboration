@@ -3,10 +3,22 @@ Big theme: Human-AI Co-Learning (Huang et al., 2019) https://arxiv.org/abs/1910.
 ## Human-AI Interaction vs Human-AI Co-Learning
 ![](figures/human-ai-co-learning.png)
 
-![](figures/key-concepts.png)
+### Three Key Concepts of Human-AI Co-Learning
+- **Mutual Understanding**:
+Human and AI are developing common knowledge (i.e., a shared mental model) through an iterative, interactive process.
+
+- **Mutual Benefits**:
+Human and AI as a team achieves superior results that a single human or AI cannot achieve alone.
+
+- **Mutual Growth**:
+Human and AI both have a growth mindset —i.e. they learn together, learn from each other, learn with each other, and grow and evolve over time.
 
 ### AI sucess vs AI failure
 ![](figures/sucess-failure.png)
+
+
+
+Slides: [Human-AI Co-Learning for Data-Driven AI by Janet Huang, Oct 2019](https://speakerdeck.com/janetyc/human-ai-co-learning-for-data-driven-ai)
 
 
 ----------------------------
