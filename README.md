@@ -1,4 +1,3 @@
-Big theme: Human-AI Co-Learning (Huang et al., 2019) https://arxiv.org/abs/1910.12544
 
 ## Human-AI Interaction vs Human-AI Co-Learning
 ![](figures/human-ai-co-learning.png)
@@ -19,7 +18,7 @@ Human and AI both have a growth mindset —i.e. they learn together, learn from 
 
 
 Slides: [Human-AI Co-Learning for Data-Driven AI by Janet Huang, Oct 2019](https://speakerdeck.com/janetyc/human-ai-co-learning-for-data-driven-ai)
-
+In-Progress Writing: Human-AI Co-Learning (Huang et al., 2019) https://arxiv.org/abs/1910.12544
 
 ----------------------------
 # Human-AI Collaboration
