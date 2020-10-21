@@ -1,5 +1,14 @@
 Big theme: Human-AI Co-Learning (Huang et al., 2019) https://arxiv.org/abs/1910.12544
 
+## Human-AI Interaction vs Human-AI Co-Learning
+![](figures/human-ai-co-learning.png)
+
+![](figures/key-concepts.png)
+
+### AI sucess vs AI failure
+![](figures/sucess-failure.png)
+
+
 ----------------------------
 # Human-AI Collaboration
 Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
