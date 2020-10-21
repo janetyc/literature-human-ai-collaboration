@@ -59,6 +59,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 ## FATE: Fairness, Accountability, Transparency, and Ethics in AI
 - [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI (Madaio et al., CHI 2020)](http://www.jennwv.com/papers/checklists.pdf)
 - [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
+- [Model Cards for Model Reporting]()
 
 ## Human-AI Team
 - Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff (AAAI 2019)
@@ -121,6 +122,7 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 - [AI Guidelines in the Creative Process](https://medium.com/microsoft-design/ai-guidelines-in-the-creative-process-807b6d31cda2)
 - https://hcil.umd.edu/human-centered-ai-a-second-copernican-revolution/
 - https://hcil.umd.edu/human-centered-ai-trusted-reliable-safe/
+- https://machinelearning.design
 
 ## Other Awesome HAI list
 - https://github.com/bwang514/awesome-HAI/blob/master/README.md
