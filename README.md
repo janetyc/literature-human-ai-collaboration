@@ -93,6 +93,8 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 ## Human-in-the-loop ML
 - https://livebook.manning.com/book/human-in-the-loop-machine-learning/ (in-progress book, [Robert Munro](http://www.robertmunro.com))
 
+## Machine-in-the-loop (Machine in the Human's (Thinking/Cogniting) Loop)
+- [Creative writing with a machine in the loop: Case studies on slogans and stories](IUI 2018)
 
 ## Applications for Human-AI Co-Learning
 ### Writing
