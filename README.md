@@ -79,6 +79,10 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [Questioning the AI: Informing Design Practices for Explainable AI User Experiences (Liao et al., CHI 2020)](https://arxiv.org/abs/2001.02478)
 - [No Explainability without Accountability: An Empirical Study of Explanations and Feedback in Interactive ML (Smith-Renner et al., CHI 2020)](https://homes.cs.washington.edu/~weld/papers/smith-renner-chi20.pdf)
 
+- (Tutorial Slides)["Introduction to Interpretable Machine Learning", Deep Learning Summer school at University of Toronto, Vector institute in 2018, by Been Kim](https://beenkim.github.io/slides/DLSS2018Vector_Been.pdf)
+- (Tutorial Slides)[Interpretable Machine Learning: The fuss, the concrete and the questions, Harvard university
+Tutorial by Finale Doshi-Velez and Been Kim, ICML 2017](https://beenkim.github.io/papers/BeenK_FinaleDV_ICML2017_tutorial.pdf)
+
 ## FATE: Fairness, Accountability, Transparency, and Ethics in AI
 - [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI (Madaio et al., CHI 2020)](http://www.jennwv.com/papers/checklists.pdf)
 - [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
