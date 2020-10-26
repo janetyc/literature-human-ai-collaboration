@@ -99,7 +99,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 ## Applications for Human-AI Co-Learning
 ### Writing
 - [Metaphoria: An Algorithmic Companion for Metaphor Creation (CHI 2019)](http://www.katygero.com/papers/Metaphoria_Revision.pdf)
-- [Creative writing with a machine in the loop: Case studies on slogans and stories](IUI 2018)
+- [Creative writing with a machine in the loop: Case studies on slogans and stories (IUI 2018)](https://homes.cs.washington.edu/~ansross/papers/iui2018-creativewriting.pdf)
 - [LISA: lexically intelligent story assistant (AIIDE 2017)](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/viewPDFInterstitial/15883/15202)
 
 ### Creativity (Drawing, Music, etc)
