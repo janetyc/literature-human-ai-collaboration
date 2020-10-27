@@ -1,5 +1,5 @@
-
-## Human-AI Interaction vs Human-AI Co-Learning
+# Human-AI Co-Learning
+### Human-AI Interaction vs Human-AI Co-Learning
 ![](figures/human-ai-co-learning.png)
 
 ### Three Key Concepts of Human-AI Co-Learning
@@ -28,7 +28,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy. (Shneiderman 2020)](https://www.tandfonline.com/doi/full/10.1080/10447318.2020.1741118)
 - [Human-Centered Artificial Intelligence: Three Fresh Ideas. (Shneiderman, 2020)](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1136&context=thci)
 - [Workshop: Human-Centered AI: Reliable, Safe & Trustworthy, University of Maryland, 2020.](https://hcil.umd.edu/human-centered-ai-trusted-reliable-safe/)
-- [- Bridging the Gap Between Ethics and Practice: Guidelines for Reliable, Safe, and Trustworthy Human-centered AI Systems](https://dl.acm.org/doi/10.1145/3419764)
+- [Bridging the Gap Between Ethics and Practice: Guidelines for Reliable, Safe, and Trustworthy Human-centered AI Systems](https://dl.acm.org/doi/10.1145/3419764)
 
 ## Interactive Machine Learning
 - Power to the People: The Role of Humans in Interactive Machine Learning (AI Magine 2014)
@@ -49,6 +49,8 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [Interactive Teaching Strategies for Agent Training (IJCAI 2016)](https://www.microsoft.com/en-us/research/publication/interactive-teaching-strategies-agent-training/)
 
 ## Agency vs Automation
+![](figures/control-automation.png)
+
 - Man-Computer Symbiosis (Licklider, 1960)
 - Direct Manipulation vs. Interface Agents (1997)
 - Principles of Mixed-Initiative User Interfaces (Horvitz, 1999)
@@ -94,10 +96,13 @@ Tutorial by Finale Doshi-Velez and Been Kim, ICML 2017](https://beenkim.github.i
 - Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff (AAAI 2019)
 - Beyond Accuracy: The Role of Mental Models in Human-AI Team Performance (HCOMP 2019)
 
-## Human-in-the-loop ML
+## Human-in-the-loop vs Machine-in-the-loop (or AI-in-the-loop)
+![](figures/human-centered-AI.png)
+
+### Human-in-the-loop around AI
 - https://livebook.manning.com/book/human-in-the-loop-machine-learning/ (in-progress book, [Robert Munro](http://www.robertmunro.com))
 
-## Machine-in-the-loop (Machine in the Human's (Thinking/Cogniting) Loop)
+### Machine-in-the-loop around Humans
 - [Creative writing with a machine in the loop: Case studies on slogans and stories](IUI 2018)
 
 ## Applications for Human-AI Co-Learning
