@@ -131,7 +131,7 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 -------
 
 ## Courses
-- [Human-AI Interaction, by Chinmay Kulkarni an Mary Beth Kery, CMU (formo class by Jeff Bigham and Joseph Seering, Fall 2018)](http://www.humanaiclass.org)
+- [Human-AI Interaction, by Chinmay Kulkarni an Mary Beth Kery, CMU (former class by Jeff Bigham and Joseph Seering, Fall 2018)](http://www.humanaiclass.org)
 - [CS 889: Human-AI Interaction by Edith Law, U.Waterloo](http://edithlaw.ca/teaching/cs889/2018/index.html)
 - [CS 294: Fairness in Machine Learning by ,UC Bekeley](https://fairmlclass.github.io)
 - [CS598RK: HCI for Machine Learning, by Ranjitha Kumar and Jinda Han,UIUC](https://courses.grainger.illinois.edu/cs598rk/fa2019/)
