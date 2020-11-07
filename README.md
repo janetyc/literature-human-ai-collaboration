@@ -80,6 +80,7 @@ Literature for Human-AI collaboration, Hybrid Intelligence, Human-AI interaction
 - [Interpreting Interpretability: Understanding Data Scientists’ Use of Interpretability Tools for Machine Learning (Kaur et al., CHI 2020)](http://www-personal.umich.edu/~harmank/Papers/CHI2020_Interpretability.pdf)
 - [Questioning the AI: Informing Design Practices for Explainable AI User Experiences (Liao et al., CHI 2020)](https://arxiv.org/abs/2001.02478)
 - [No Explainability without Accountability: An Empirical Study of Explanations and Feedback in Interactive ML (Smith-Renner et al., CHI 2020)](https://homes.cs.washington.edu/~weld/papers/smith-renner-chi20.pdf)
+- [Proxy tasks and subjective measures can be misleading in evaluating explainable AI systems. (Buçinca et al., IUI 2020)](http://glassmanlab.seas.harvard.edu/papers/bucinca_iui20_proxy.pdf)
 
 - (Tutorial Slides)["Introduction to Interpretable Machine Learning", Deep Learning Summer school at University of Toronto, Vector institute in 2018, by Been Kim](https://beenkim.github.io/slides/DLSS2018Vector_Been.pdf)
 - (Tutorial Slides)[Interpretable Machine Learning: The fuss, the concrete and the questions, Harvard university
@@ -89,23 +90,33 @@ Tutorial by Finale Doshi-Velez and Been Kim, ICML 2017](https://beenkim.github.i
 - [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI (Madaio et al., CHI 2020)](http://www.jennwv.com/papers/checklists.pdf)
 - [Principles for Accountable Algorithms and a Social Impact Statement for Algorithms](https://www.fatml.org/resources/principles-for-accountable-algorithms)
 - [Model Cards for Model Reporting (Mitchell et al., 2019)](https://arxiv.org/abs/1810.03993)
+- [Improving fairness in machine learning systems: What do industry practitioners need? (Holstein et al., 2019)](http://www.jennwv.com/papers/fairness-in-practice.pdf)
 - [Google Cloud Model Cards](https://modelcards.withgoogle.com/about)
 - [FATE: Fairness, Accountability, Transparency, and Ethics in AI by MSR](https://www.microsoft.com/en-us/research/theme/fate/#!publications)
 
 ## Human-AI Team
+- [Learning to Complement Humans (Wilder et al., IJCAI 2020)](https://arxiv.org/abs/2005.00582)
+- [Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance. (Bansal et al., arXiv 2020)](https://arxiv.org/abs/2006.14779)
 - Updates in Human-AI Teams: Understanding and Addressing the Performance/Compatibility Tradeoff (AAAI 2019)
 - Beyond Accuracy: The Role of Mental Models in Human-AI Team Performance (HCOMP 2019)
+- [Investigating human+machine complementarity for recidivism predictions. (Tan et al., 2018)](https://arxiv.org/abs/1808.09123)
 
 ## Human-in-the-loop vs Machine-in-the-loop (or AI-in-the-loop)
 ![](figures/human-centered-AI.png)
 
 ### Human-in-the-loop around AI
 - https://livebook.manning.com/book/human-in-the-loop-machine-learning/ (in-progress book, [Robert Munro](http://www.robertmunro.com))
+- [A Case for Humans-in-the-Loop: Decisions in the Presence of Erroneous Algorithmic Scores. (De-Arteaga et al., CHI 2020)](https://dl.acm.org/doi/abs/10.1145/3313831.3376638)
 
 ### Machine-in-the-loop around Humans
 - [Creative writing with a machine in the loop: Case studies on slogans and stories](IUI 2018)
 
 ## Applications for Human-AI Co-Learning
+### Healthcare
+- [Human-centered tools for coping with imperfect algorithms during medical decision-making. (Cai et al., CHI 2019)](https://gangw.web.illinois.edu/class/cs598/papers/CHI19-human.pdf)
+- [Unremarkable AI: Fitting intelligent decision support into critical, clinical decision-making processes (Yang et al., CHI 2019)](https://dl.acm.org/doi/10.1145/3290605.3300468)
+
+
 ### Writing
 - [Metaphoria: An Algorithmic Companion for Metaphor Creation (CHI 2019)](http://www.katygero.com/papers/Metaphoria_Revision.pdf)
 - [Creative writing with a machine in the loop: Case studies on slogans and stories (IUI 2018)](https://homes.cs.washington.edu/~ansross/papers/iui2018-creativewriting.pdf)
@@ -122,6 +133,10 @@ Tutorial by Finale Doshi-Velez and Been Kim, ICML 2017](https://beenkim.github.i
 ### Conversational Agents
 - [What Makes a Good Conversation? Challenges in Designing Truly Conversational Agents (CHI 2019)](https://arxiv.org/pdf/1901.06525.pdf)
 - [Caring for Vincent: A Chatbot for Self-compassion(CHI 2019)](https://minha-lee.github.io/files/lee_vincent_chatbot_CHI2019.pdf)
+
+### Teaching & Learning
+- [Co-designing a real-time classroom orchestration tool to support teacher–AI complementarity. (Holstein et al., 2019)](http://kenholstein.com/JLA_CodesignOrchestration.pdf)
+- [A conceptual framework for human–AI hybrid adaptivity in education. (Holstein et al., 2020)](https://europepmc.org/article/pmc/pmc7334162)
 
 ### Others
 - [Calendar.help: Designing a workflow-based scheduling agent with humans in the loop](https://arxiv.org/pdf/1703.08428)
@@ -144,6 +159,11 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 
 ## Labs
 - [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io)
+- [Glassman Lab @ Harvard SEAS](https://glassmanlab.seas.harvard.edu)
+- [CMU Co- Augmentation, Learning, & AI (CoALA) Lab](http://thecoalalab.com)
+- [AI4LIFE @ Harvard](https://twitter.com/ai4life_harvard) 
+- [CMU Co-Augmentation, Learning, & AI (CoALA) Lab](http://thecoalalab.com)
+- [AI4LIFE @ Harvard](https://twitter.com/ai4life_harvard)
 
 ## Workshops & Tutorials
 - [PAIR 2019 @Google](https://pair.withgoogle.com/events/symposium/)
