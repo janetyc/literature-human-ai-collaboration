@@ -160,8 +160,6 @@ Trustworthiness (CHI 2019)](http://www.mauricejakesch.com/pub/chi2019__ai_mc_cam
 ## Labs
 - [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io)
 - [Glassman Lab @ Harvard SEAS](https://glassmanlab.seas.harvard.edu)
-- [CMU Co- Augmentation, Learning, & AI (CoALA) Lab](http://thecoalalab.com)
-- [AI4LIFE @ Harvard](https://twitter.com/ai4life_harvard) 
 - [CMU Co-Augmentation, Learning, & AI (CoALA) Lab](http://thecoalalab.com)
 - [AI4LIFE @ Harvard](https://twitter.com/ai4life_harvard)
 
